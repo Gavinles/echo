@@ -1,0 +1,9 @@
+{
+  "name": "ECHO: Project Kairos",
+  "description": "A Social Reality Engine that gamifies self-growth and conscious contribution, turning your inner journey into a verifiable digital identity called an Eidolon.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
